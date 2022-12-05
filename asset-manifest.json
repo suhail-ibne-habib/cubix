@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/suhail-ibne-habib/cubix.git/static/css/main.c79746fa.css",
+    "main.js": "/suhail-ibne-habib/cubix.git/static/js/main.f44cf235.js",
+    "static/media/project1.jpg": "/suhail-ibne-habib/cubix.git/static/media/project1.6b571572c1361f7dffb3.jpg",
+    "static/media/about-us.jpg": "/suhail-ibne-habib/cubix.git/static/media/about-us.386d067dced69a2c432f.jpg",
+    "static/media/suhail.png": "/suhail-ibne-habib/cubix.git/static/media/suhail.66ea9bba5b9e6be103a4.png",
+    "static/media/wahid.png": "/suhail-ibne-habib/cubix.git/static/media/wahid.f66a42e3cfe5f20ae9a6.png",
+    "static/media/sahal.png": "/suhail-ibne-habib/cubix.git/static/media/sahal.d68c696312df251ef8f7.png",
+    "static/media/tool7.png": "/suhail-ibne-habib/cubix.git/static/media/tool7.c2ad196fd499c9491f35.png",
+    "static/media/tool5.png": "/suhail-ibne-habib/cubix.git/static/media/tool5.ced4a47c71dd6b9124ca.png",
+    "static/media/tool4.png": "/suhail-ibne-habib/cubix.git/static/media/tool4.f1f5ad06aa5976ceea44.png",
+    "static/media/tool2.png": "/suhail-ibne-habib/cubix.git/static/media/tool2.b5c8e9e92e996c927976.png",
+    "static/media/tool6.png": "/suhail-ibne-habib/cubix.git/static/media/tool6.b3140e73af3350087844.png",
+    "static/media/tool1.png": "/suhail-ibne-habib/cubix.git/static/media/tool1.896ede5c8058ddd11d35.png",
+    "static/media/tool8.png": "/suhail-ibne-habib/cubix.git/static/media/tool8.cbb7009566ea9f887407.png",
+    "static/media/slick.svg": "/suhail-ibne-habib/cubix.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/suhail-ibne-habib/cubix.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/suhail-ibne-habib/cubix.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/suhail-ibne-habib/cubix.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/suhail-ibne-habib/cubix.git/index.html",
+    "main.c79746fa.css.map": "/suhail-ibne-habib/cubix.git/static/css/main.c79746fa.css.map",
+    "main.f44cf235.js.map": "/suhail-ibne-habib/cubix.git/static/js/main.f44cf235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79746fa.css",
+    "static/js/main.f44cf235.js"
+  ]
+}
