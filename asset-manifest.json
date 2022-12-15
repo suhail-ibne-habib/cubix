@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cubix/static/css/main.38a6c84d.css",
-    "main.js": "/cubix/static/js/main.7b5670cc.js",
+    "main.css": "/cubix/static/css/main.90c268c0.css",
+    "main.js": "/cubix/static/js/main.1261cf32.js",
     "static/media/project1.jpg": "/cubix/static/media/project1.6b571572c1361f7dffb3.jpg",
     "static/media/about-us.jpg": "/cubix/static/media/about-us.386d067dced69a2c432f.jpg",
     "static/media/suhail.png": "/cubix/static/media/suhail.66ea9bba5b9e6be103a4.png",
@@ -17,13 +17,14 @@
     "static/media/slick.svg": "/cubix/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/cubix/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/cubix/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/logo.svg": "/cubix/static/media/logo.79e08d443d7a901a50cbe22034296ed1.svg",
     "static/media/slick.woff": "/cubix/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cubix/index.html",
-    "main.38a6c84d.css.map": "/cubix/static/css/main.38a6c84d.css.map",
-    "main.7b5670cc.js.map": "/cubix/static/js/main.7b5670cc.js.map"
+    "main.90c268c0.css.map": "/cubix/static/css/main.90c268c0.css.map",
+    "main.1261cf32.js.map": "/cubix/static/js/main.1261cf32.js.map"
   },
   "entrypoints": [
-    "static/css/main.38a6c84d.css",
-    "static/js/main.7b5670cc.js"
+    "static/css/main.90c268c0.css",
+    "static/js/main.1261cf32.js"
   ]
 }
