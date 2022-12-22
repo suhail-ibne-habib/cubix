@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/cubix/static/css/main.90c268c0.css",
-    "main.js": "/cubix/static/js/main.8cd51895.js",
+    "main.css": "/cubix/static/css/main.e96d47fa.css",
+    "main.js": "/cubix/static/js/main.731efb1a.js",
     "static/media/project1.jpg": "/cubix/static/media/project1.6b571572c1361f7dffb3.jpg",
     "static/media/about-us.jpg": "/cubix/static/media/about-us.386d067dced69a2c432f.jpg",
+    "static/media/suhail.png": "/cubix/static/media/suhail.66ea9bba5b9e6be103a4.png",
     "static/media/wahid.png": "/cubix/static/media/wahid.f66a42e3cfe5f20ae9a6.png",
     "static/media/sahal.png": "/cubix/static/media/sahal.d68c696312df251ef8f7.png",
-    "static/media/suhail.png": "/cubix/static/media/suhail.629ca555176dd2fbd2ac.png",
     "static/media/tool7.png": "/cubix/static/media/tool7.c2ad196fd499c9491f35.png",
     "static/media/tool5.png": "/cubix/static/media/tool5.ced4a47c71dd6b9124ca.png",
     "static/media/tool4.png": "/cubix/static/media/tool4.f1f5ad06aa5976ceea44.png",
@@ -20,11 +20,11 @@
     "static/media/logo.svg": "/cubix/static/media/logo.79e08d443d7a901a50cbe22034296ed1.svg",
     "static/media/slick.woff": "/cubix/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cubix/index.html",
-    "main.90c268c0.css.map": "/cubix/static/css/main.90c268c0.css.map",
-    "main.8cd51895.js.map": "/cubix/static/js/main.8cd51895.js.map"
+    "main.e96d47fa.css.map": "/cubix/static/css/main.e96d47fa.css.map",
+    "main.731efb1a.js.map": "/cubix/static/js/main.731efb1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.90c268c0.css",
-    "static/js/main.8cd51895.js"
+    "static/css/main.e96d47fa.css",
+    "static/js/main.731efb1a.js"
   ]
 }
