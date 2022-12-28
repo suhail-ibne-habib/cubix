@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cubix/static/css/main.5e957860.css",
-    "main.js": "/cubix/static/js/main.b01f3611.js",
+    "main.css": "/cubix/static/css/main.63346f6f.css",
+    "main.js": "/cubix/static/js/main.a66b69bd.js",
     "static/media/project1.jpg": "/cubix/static/media/project1.6b571572c1361f7dffb3.jpg",
     "static/media/about-us.jpg": "/cubix/static/media/about-us.386d067dced69a2c432f.jpg",
     "static/media/suhail.png": "/cubix/static/media/suhail.b42584e518cf6de4d4d4.png",
@@ -22,11 +22,11 @@
     "static/media/slick.woff": "/cubix/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cubix/index.html",
     "static/media/top_arrow.svg": "/cubix/static/media/top_arrow.76407e6294c1d7157866f46a79723380.svg",
-    "main.5e957860.css.map": "/cubix/static/css/main.5e957860.css.map",
-    "main.b01f3611.js.map": "/cubix/static/js/main.b01f3611.js.map"
+    "main.63346f6f.css.map": "/cubix/static/css/main.63346f6f.css.map",
+    "main.a66b69bd.js.map": "/cubix/static/js/main.a66b69bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e957860.css",
-    "static/js/main.b01f3611.js"
+    "static/css/main.63346f6f.css",
+    "static/js/main.a66b69bd.js"
   ]
 }
