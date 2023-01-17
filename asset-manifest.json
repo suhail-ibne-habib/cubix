@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cubix/static/css/main.a401e3f4.css",
-    "main.js": "/cubix/static/js/main.b14a42ed.js",
+    "main.js": "/cubix/static/js/main.4cba1b38.js",
     "static/media/about-us.jpg": "/cubix/static/media/about-us.386d067dced69a2c432f.jpg",
     "static/media/banner1.jpg": "/cubix/static/media/banner1.2777e688d57ff0e00167.jpg",
     "static/media/project_4.jpg": "/cubix/static/media/project_4.056fcadfc50fdad64e25.jpg",
@@ -25,10 +25,10 @@
     "index.html": "/cubix/index.html",
     "static/media/top_arrow.svg": "/cubix/static/media/top_arrow.76407e6294c1d7157866f46a79723380.svg",
     "main.a401e3f4.css.map": "/cubix/static/css/main.a401e3f4.css.map",
-    "main.b14a42ed.js.map": "/cubix/static/js/main.b14a42ed.js.map"
+    "main.4cba1b38.js.map": "/cubix/static/js/main.4cba1b38.js.map"
   },
   "entrypoints": [
     "static/css/main.a401e3f4.css",
-    "static/js/main.b14a42ed.js"
+    "static/js/main.4cba1b38.js"
   ]
 }
